@@ -34,5 +34,5 @@
   ],
   "cpu": "256",
   "memory": "512",
-  "taskRoleArn": "arn:aws:iam::<aws-account-id>:role/ecsTaskRole"
+  "taskRoleArn": "arn:aws:iam::373244559418:role/ecsTaskRole"
 }
